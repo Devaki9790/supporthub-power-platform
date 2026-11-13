@@ -1,0 +1,11 @@
+Name,Product Code,Category,List Price,Active
+SupportHub Basic Plan,PRD-001,Subscription,4999,Yes
+SupportHub Pro Plan,PRD-002,Subscription,12999,Yes
+SupportHub Enterprise Plan,PRD-003,Subscription,34999,Yes
+Smart Barcode Scanner X1,PRD-004,Hardware,8500,Yes
+Industrial Tablet T10,PRD-005,Hardware,24500,Yes
+Mobile Field App,PRD-006,Software,6000,Yes
+Analytics Add-on,PRD-007,Software,9500,Yes
+On-site Installation,PRD-008,Service,15000,Yes
+Annual Maintenance Contract,PRD-009,Service,20000,Yes
+Training Workshop,PRD-010,Service,7500,No
