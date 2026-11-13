@@ -1,9 +1,0 @@
-Name,Priority,Response Hours,Resolution Hours,Active
-Standard - Critical,Critical,4,24,Yes
-Standard - High,High,8,48,Yes
-Standard - Medium,Medium,24,72,Yes
-Standard - Low,Low,48,120,Yes
-Premium - Critical,Critical,1,8,Yes
-Premium - High,High,4,24,Yes
-Premium - Medium,Medium,8,48,Yes
-Premium - Low,Low,24,96,Yes
